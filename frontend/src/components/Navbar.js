@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001';
+const API_URL = process.env.REACT_APP_API_URL || 'https://pbilwanikar-portfolio.onrender.com';
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
