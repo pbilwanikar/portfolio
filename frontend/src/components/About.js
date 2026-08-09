@@ -79,7 +79,7 @@ export default function About() {
         >
           <div className="about__image-glow"></div>
           <div className="about__image-placeholder">
-            <img src="/pranav.jpeg" alt="Pranav Bilwanikar" className="about__photo" />
+            <img src={`${process.env.PUBLIC_URL}/pranav.jpeg`} alt="Pranav Bilwanikar" className="about__photo" />
           </div>
           <div className="about__image-border"></div>
         </div>
