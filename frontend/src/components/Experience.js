@@ -4,7 +4,7 @@ import useScrollReveal from '../hooks/useScrollReveal';
 const experiences = [
   {
     year: '2024 - 2026',
-    title: 'Senior Sofware Developer',
+    title: 'Senior Software Developer',
     company: 'HSBC Software Development',
     description:
       'By day, I turn complex financial workflows into software that behaves itself under pressure. As a Senior Software Developer, I spend my time building systems that keep money moving, solving problems that only show up at scale, and occasionally convincing distributed systems to cooperate. Along the way, I mentor junior engineers, share battle scars from production incidents, and help turn good ideas into reliable products.',
